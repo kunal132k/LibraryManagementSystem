@@ -1,0 +1,29 @@
+ #error {
+        text-align: center;
+        color:red;
+      }
+        body {
+            background-image: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
+        }
+        .container {
+            z-index: 1;
+            box-shadow: 10px 10px 8px #888888;
+            margin-top: 60px;
+            text-align: center;
+            background-color: whitesmoke;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 20px;
+            width: 350px;
+            height:500px;
+            padding-top: 30px;
+            padding-bottom: 30px;
+            padding-left: 10px;
+            padding-right: 10px;
+            border-radius: 28px;
+        }
+        .form-control {
+            border-radius: 15px;
+
+            
+        }
